@@ -1,4 +1,4 @@
-# 이때 모해?<img src="https://github.com/HanIpBoy/Documents/blob/master/main.png" align=left width=100>
+# 이때 모해?<img src="https://github.com/HanIpBoy/Documents/blob/master/main.png" align=left>
 
 **뉴진스의 한입보이요**
 
