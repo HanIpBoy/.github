@@ -18,6 +18,10 @@
 
 <br />
 
+<img src="https://github.com/HanIpBoy/Documents/blob/master/startPage.png">
+
+<br />
+
 ## ✨ Main Features
 
 - **`Group`** 
@@ -44,10 +48,43 @@
 
 <br>
 
+## 🌐 Web
+- FullCalendar
+- MUI Library
+
+## 🍎 iOS
+- FSCalendar
+- REST API (URLSession)
+
+## 🍃 Server
+- Spring Boot
+- REST API
+- Layered Architecture
+    - Controller (User Interaction)
+    - Service (Business Logic)
+    - Persistence (JpaRepository)
+    - Model (Entity)
+- Security
+    - JwtAuthenticationFilter
+    - CorsConfiguration
+- Java Mail Sender
+- Log
+    - Logging Filter
+    - Sl4fj
+- MySQL
+- AWS EC2, RDS
+   
+
+<br>
+
 ## 📑 Documents
 - [프로토콜 문서 바로가기](https://github.com/HanIpBoy/Documents/blob/master/Protocol.md)
+
 - [구성 및 구조도 문서 바로가기](https://github.com/HanIpBoy/Documents/blob/master/Structure.pdf)
 - [판넬을 보려면 여기로!](https://github.com/HanIpBoy/Documents/blob/master/%EC%A0%84%EC%8B%9C%EC%9E%90%EB%A3%8C/%EB%89%B4%EC%A7%84%EC%8A%A4%EC%9D%98%ED%95%9C%EC%9E%85%EB%B3%B4%EC%9D%B4%EC%9A%94_%ED%8C%90%EB%84%AC.pdf)
+- [4개월 간의 발전 과정](https://github.com/HanIpBoy/Documents/tree/master/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
+
+
 
 
 <br />
