@@ -51,6 +51,7 @@
 ## 🌐 Web
 - FullCalendar
 - MUI Library
+- Dayjs Library
 
 ## 🍎 iOS
 - FSCalendar
