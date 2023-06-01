@@ -1,7 +1,7 @@
 # 이때 모해?<img src="../Wassup_iOS/WassUP/WassUP/Assets.xcassets/MainIcon.imageset" align=left width=100>
 
 **뉴진스의 한입보이요**
-> 팀 활동 시 팀원들의 일정을 간편하게 관리할 수 있는 서비스 
+> 팀 활동 시 팀원들의 일정을 간편하게 관리할 수 있는 캘린더 어플리케이션 
 
 <br />
 
