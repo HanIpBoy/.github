@@ -56,6 +56,7 @@
 ## 🍎 iOS
 - FSCalendar
 - REST API (URLSession)
+- UserDefaults
 
 ## 🍃 Server
 - Spring Boot
