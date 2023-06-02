@@ -55,6 +55,7 @@
 <br>
 
 ## 🌐 Web
+- React
 - FullCalendar
 - MUI Library
 - Dayjs Library
